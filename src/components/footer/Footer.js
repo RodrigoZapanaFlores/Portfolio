@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="footer-sns">
         <div className="design-by"></div>
         <div className="sns-links">
-          <a href="https://www.linkedin.com/in/rodrigo-zapana-b18589117/" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/rodrigo-zapana-flores-b9a543256/" target="_blank" rel="noreferrer">
             <i className="fab fa-linkedin linkedin"></i>
           </a>
           <a href="https://twitter.com/RodrigoZapanaF1" target="_blank" rel="noreferrer">
